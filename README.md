@@ -14,10 +14,6 @@
 I'm a data professional in career transition, based in Brighton. I turn messy datasets into clear stories and better business decisions — currently sharpening my SQL, Python, and R skills while working toward a GitHub Foundations certification.
 </p>
 
-<p align="left">
-<em>I don't just clean data — I make it confess.</em> 🕵️‍♀️
-</p>
-
 <div align="left">
 
 ![Status](https://img.shields.io/badge/STATUS-Career_Transition-14b8a6?style=for-the-badge&labelColor=0f2027)
@@ -64,7 +60,7 @@ I'm a data professional in career transition, based in Brighton. I turn messy da
 
 ### 🔗 Connect With Me
 
-<div align="center">
+<div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2c5364?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ioana-criclevit/)
 [![Email](https://img.shields.io/badge/Email-2c5364?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:ioanapcriclevit@gmail.com)
