@@ -23,30 +23,21 @@ I'm a data professional in career transition, based in Brighton. I turn messy da
 
 </div>
 
+
 ### 🛠️ Tech Stack
 
 <div align="left">
 
-![SQL](https://img.shields.io/badge/SQL-2c5364?style=flat-square&logo=mysql&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2c5364?style=flat-square&logo=postgresql&logoColor=ffffff)
-![Python](https://img.shields.io/badge/Python-2c5364?style=flat-square&logo=python&logoColor=ffffff)
-![R](https://img.shields.io/badge/R-2c5364?style=flat-square&logo=r&logoColor=ffffff)
-![Jupyter](https://img.shields.io/badge/Jupyter-2c5364?style=flat-square&logo=jupyter&logoColor=ffffff)
-![Git](https://img.shields.io/badge/Git-2c5364?style=flat-square&logo=git&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/GitHub-2c5364?style=flat-square&logo=github&logoColor=ffffff)
+![SQL](https://img.shields.io/badge/SQL-14b8a6?style=for-the-badge&logo=mysql&logoColor=ffffff&labelColor=0f2027)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6366f1?style=for-the-badge&logo=postgresql&logoColor=ffffff&labelColor=0f2027)
+![Python](https://img.shields.io/badge/Python-f59e0b?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=0f2027)
+![R](https://img.shields.io/badge/R-ec4899?style=for-the-badge&logo=r&logoColor=ffffff&labelColor=0f2027)
+![Jupyter](https://img.shields.io/badge/Jupyter-14b8a6?style=for-the-badge&logo=jupyter&logoColor=ffffff&labelColor=0f2027)
+![Git](https://img.shields.io/badge/Git-6366f1?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=0f2027)
+![GitHub](https://img.shields.io/badge/GitHub-f59e0b?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0f2027)
 
 </div>
 
-### 📊 GitHub Stats
-
-<div align="left">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=llPriscila&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llPriscila&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=llPriscila&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ### 📈 Activity
 
@@ -56,14 +47,20 @@ I'm a data professional in career transition, based in Brighton. I turn messy da
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/llPriscila/llPriscila/output/github-contribution-grid-snake.svg" />
   <img alt="a snake eating my contribution graph" src="https://raw.githubusercontent.com/llPriscila/llPriscila/output/github-contribution-grid-snake.svg" />
 </picture>
+<sub><em>Just getting started — check back soon 🌱</em></sub>
 </div>
 
+---
 ### 🔗 Connect With Me
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2c5364?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ioana-criclevit/)
-[![Email](https://img.shields.io/badge/Email-2c5364?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:ioanapcriclevit@gmail.com)
+<a href="https://www.linkedin.com/in/ioana-criclevit/">
+  <img height="50" src="https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0f2027" />
+</a>
+<a href="mailto:ioanapcriclevit@gmail.com">
+  <img height="50" src="https://img.shields.io/badge/Email-14b8a6?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0f2027" />
+</a>
 
 </div>
 
