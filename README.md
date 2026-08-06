@@ -11,7 +11,7 @@
 ### About Me
 
 <p align="left">
-I'm a data professional in career transition, based in Brighton. I turn messy datasets into clear stories and better business decisions — currently sharpening my SQL, Python, and R skills while working toward a GitHub Foundations certification.
+[ !NOTE] I'm a data professional in career transition, based in Brighton. I turn messy datasets into clear stories and better business decisions — currently sharpening my SQL, Python, and R skills while working toward a GitHub Foundations certification.
 </p>
 
 <div align="left">
@@ -39,17 +39,6 @@ I'm a data professional in career transition, based in Brighton. I turn messy da
 </div>
 
 
-### 📈 Activity
-
-<div align="left">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/llPriscila/llPriscila/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/llPriscila/llPriscila/output/github-contribution-grid-snake.svg" />
-  <img alt="a snake eating my contribution graph" src="https://raw.githubusercontent.com/llPriscila/llPriscila/output/github-contribution-grid-snake.svg" />
-</picture>
-<sub><em>Just getting started — check back soon 🌱</em></sub>
-</div>
-
 ---
 ### 🔗 Connect With Me
 
@@ -64,10 +53,15 @@ I'm a data professional in career transition, based in Brighton. I turn messy da
 
 </div>
 
-<br/>
+### 📈 Activity
 
-<p align="center">
-<sub>Made with intention, one query at a time ✨</sub>
-</p>
+<div align="left">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/llPriscila/llPriscila/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/llPriscila/llPriscila/output/github-contribution-grid-snake.svg" />
+  <img alt="a snake eating my contribution graph" src="https://raw.githubusercontent.com/llPriscila/llPriscila/output/github-contribution-grid-snake.svg" />
+
+</div>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c4c,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
