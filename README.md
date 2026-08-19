@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:241512,50:8a3e2f,100:d99058&height=200&section=header&text=Hi%20there,%20I'm%20Ioana%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=45&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:132743,100:58a6ff&height=200&section=header&text=Hi%20there,%20I'm%20Ioana%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=45&width=100%" width="100%"/>
 
 **Data Professional · Analytics · Automation**
 
@@ -12,10 +12,10 @@
 
 I'm a data professional in career transition, based in Brighton. I turn messy datasets into clear stories and better business decisions — currently sharpening my SQL, Python, and R skills while working toward a GitHub Foundations certification.
 
-![Status](https://img.shields.io/badge/STATUS-Career_Transition-d99058?style=for-the-badge&labelColor=241512)
-![Location](https://img.shields.io/badge/LOCATION-Brighton,_UK-d99058?style=for-the-badge&labelColor=241512)
-![Stack](https://img.shields.io/badge/STACK-SQL_%C2%B7_Python_%C2%B7_R-d99058?style=for-the-badge&labelColor=241512)
-![Open to](https://img.shields.io/badge/OPEN_TO-Data_Collaborations-d99058?style=for-the-badge&labelColor=241512)
+![Status](https://img.shields.io/badge/STATUS-Career_Transition-0f2942?style=for-the-badge&labelColor=000000)
+![Location](https://img.shields.io/badge/LOCATION-Brighton,_UK-0f2942?style=for-the-badge&labelColor=000000)
+![Stack](https://img.shields.io/badge/STACK-SQL_%C2%B7_Python_%C2%B7_R-0f2942?style=for-the-badge&labelColor=000000)
+![Open to](https://img.shields.io/badge/OPEN_TO-Data_Collaborations-0f2942?style=for-the-badge&labelColor=000000)
 
 ### 🚀 Featured Projects
 
