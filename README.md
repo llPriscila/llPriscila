@@ -61,13 +61,6 @@ Real-world SQL interview questions with fully documented, dialect-aware solution
 
 <img src="https://skillicons.dev/icons?i=python,postgres,mysql,r,git,github,vscode,jupyter" />
 
-### 📊 GitHub Stats
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=llPriscila&show_icons=true&hide_border=true&bg_color=241512&title_color=d99058&icon_color=d99058&text_color=f4ece3&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llPriscila&layout=compact&hide_border=true&bg_color=241512&title_color=d99058&text_color=f4ece3" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=llPriscila&hide_border=true&background=241512&ring=d99058&fire=d99058&currStreakNum=f4ece3&sideNums=f4ece3&currStreakLabel=d99058&sideLabels=f4ece3&dates=cbb9a8" />
-
 ### 📈 Activity
 
 <picture>
