@@ -1,11 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:241512,50:8a3e2f,100:d99058&height=200&section=header&text=Hi%20there,%20I'm%20Ioana%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=45&width=100%" width="100%"/>
 
-
-<tr>
-<td width="180">
-<img src="./assets/portrait_halftone.png" width="160" alt="Ioana — halftone portrait" />
-<td>
-
 **Data Professional · Analytics · Automation**
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=8a3e2f&center=false&vCenter=true&width=440&height=25&lines=Turning+messy+data+into+clear+stories;Automating+workflows+with+SQL+%2B+Python+%2B+R;Open+to+data+analytics+collaborations!" alt="Typing SVG" />
