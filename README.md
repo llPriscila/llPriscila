@@ -59,7 +59,9 @@ Real-world SQL interview questions with fully documented, dialect-aware solution
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql,r,git,github,vscode,jupyter" />
+<div align="center">
+  <img src="assets/tech-hive.svg" width="500"/>
+</div>
 
 ### 📈 Activity
 
