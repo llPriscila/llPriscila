@@ -17,7 +17,8 @@ I'm a data professional in career transition, based in Brighton. I turn messy da
 ![Stack](https://img.shields.io/badge/STACK-SQL_%C2%B7_Python_%C2%B7_R-0f2942?style=for-the-badge&labelColor=000000)
 ![Open to](https://img.shields.io/badge/OPEN_TO-Data_Collaborations-0f2942?style=for-the-badge&labelColor=000000)
 
-### 🚀 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f2942&height=30&section=header&text=Featured%20Projects&fontSize=16&fontColor=ffffff&fontAlign=9&fontAlignY=55&width=100%" width="100%"/>
+
 
 <table>
 <tr>
@@ -57,13 +58,15 @@ Real-world SQL interview questions with fully documented, dialect-aware solution
 </tr>
 </table>
 
-### 🛠️ Tech Stack
-
-<div align="center">
-  <img src="assets/tech-hive-card_4.svg" width="1100"/>
+</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f2942&height=30&section=header&text=%20Tech%20Stack&fontSize=16&fontColor=ffffff&fontAlign=6&fontAlignY=50&width=900%" width="900%"/>
 </div>
 
-### 📈 Activity
+<div align="center">
+  <img src="assets/tech-hive.svg" width="500"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f2942&height=30&section=header&text=%20Activity&fontSize=16&fontColor=ffffff&fontAlign=5&fontAlignY=55&width=900%" width="900%"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/llPriscila/llPriscila/output/github-contribution-grid-snake-dark.svg" />
@@ -73,7 +76,7 @@ Real-world SQL interview questions with fully documented, dialect-aware solution
 
 <sub><em>Just getting started — check back soon 🌱</em></sub>
 
-### 🔗 Connect With Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f2942&height=30&section=header&text=%20Connect%20with%20Me&fontSize=16&fontColor=ffffff&fontAlign=9&fontAlignY=55&width=900%" width="900%"/>
 
 <a href="https://www.linkedin.com/in/ioana-criclevit/">
   <img height="45" src="https://img.shields.io/badge/LinkedIn-241512?style=for-the-badge&logo=linkedin&logoColor=d99058" />
@@ -84,4 +87,4 @@ Real-world SQL interview questions with fully documented, dialect-aware solution
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d99058,50:8a3e2f,100:241512&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2942,50:8a3e2f,100:241512&height=100&section=footer" width="100%"/>
