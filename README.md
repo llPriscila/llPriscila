@@ -60,7 +60,7 @@ Real-world SQL interview questions with fully documented, dialect-aware solution
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="assets/tech-hive.svg" width="500"/>
+  <img src="assets/tech-hive-card_4.svg" width="1100"/>
 </div>
 
 ### 📈 Activity
