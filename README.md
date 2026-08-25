@@ -58,7 +58,7 @@ Real-world SQL interview questions with fully documented, dialect-aware solution
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f2942&height=45&section=header&text=%20Tech%20Stack&fontSize=16&fontColor=ffffff&fontAlign=6&fontAlignY=50&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f2942&height=45&section=header&text=%20Tech%20Stack&fontSize=16&fontColor=ffffff&fontAlign=6&fontAlignY=50&width=100%&v=2" width="100%"/>
 
 <div align="center">
   <img src="assets/tech-hive.svg" width="500"/>
