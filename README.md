@@ -17,7 +17,7 @@ I'm a data professional in career transition, based in Brighton. I turn messy da
 ![Stack](https://img.shields.io/badge/STACK-SQL_%C2%B7_Python_%C2%B7_R-0f2942?style=for-the-badge&labelColor=000000)
 ![Open to](https://img.shields.io/badge/OPEN_TO-Data_Collaborations-0f2942?style=for-the-badge&labelColor=000000)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f2942&height=30&section=header&text=Featured%20Projects&fontSize=16&fontColor=ffffff&fontAlign=9&fontAlignY=55&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f2942&height=56&section=header&text=Featured%20Projects&fontSize=22&fontColor=ffffff&fontAlign=15&fontAlignY=55&width=100%" width="100%"/>
 
 
 <table>
@@ -58,15 +58,14 @@ Real-world SQL interview questions with fully documented, dialect-aware solution
 </tr>
 </table>
 
-</div>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f2942&height=30&section=header&text=%20Tech%20Stack&fontSize=16&fontColor=ffffff&fontAlign=6&fontAlignY=50&width=900%" width="900%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f2942&height=45&section=header&text=%20Tech%20Stack&fontSize=16&fontColor=ffffff&fontAlign=6&fontAlignY=50&width=100%" width="100%"/>
 
 <div align="center">
   <img src="assets/tech-hive.svg" width="500"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f2942&height=30&section=header&text=%20Activity&fontSize=16&fontColor=ffffff&fontAlign=5&fontAlignY=55&width=900%" width="900%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f2942&height=45&section=header&text=Activity&fontSize=16&fontColor=ffffff&fontAlign=5&fontAlignY=55&width=100%" width="100%"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/llPriscila/llPriscila/output/github-contribution-grid-snake-dark.svg" />
@@ -76,15 +75,16 @@ Real-world SQL interview questions with fully documented, dialect-aware solution
 
 <sub><em>Just getting started — check back soon 🌱</em></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f2942&height=30&section=header&text=%20Connect%20with%20Me&fontSize=16&fontColor=ffffff&fontAlign=9&fontAlignY=55&width=900%" width="900%"/>
 
-<a href="https://www.linkedin.com/in/ioana-criclevit/">
-  <img height="45" src="https://img.shields.io/badge/LinkedIn-241512?style=for-the-badge&logo=linkedin&logoColor=d99058" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f2942&height=45&section=header&text=%20Connect%20with%20Me&fontSize=16&fontColor=ffffff&fontAlign=9&fontAlignY=55&width=100%" width="100%"/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ioana-criclevit/">
+  <img height="45" src="https://img.shields.io/badge/LinkedIn-0f2942?style=for-the-badge&logo=linkedin&logoColor=d99058" />
 </a>
 <a href="mailto:ioanapcriclevit@gmail.com">
-  <img height="45" src="https://img.shields.io/badge/Email-241512?style=for-the-badge&logo=gmail&logoColor=d99058" />
+  <img height="45" src="https://img.shields.io/badge/Email-0f2942?style=for-the-badge&logo=gmail&logoColor=d99058" />
 </a>
-
+</div>
 <br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:132743,100:58a6ff&height=100&section=footer" width="100%"/>
