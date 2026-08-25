@@ -6,13 +6,12 @@
 
 ### About Me
 
-I'm a data professional in career transition, based in Brighton. I turn messy datasets into clear stories and better business decisions — currently sharpening my SQL, Python, and R skills while working toward a GitHub Foundations certification.
-
-![Status](https://img.shields.io/badge/STATUS-Career_Transition-0f2942?style=for-the-badge&labelColor=000000)
-![Location](https://img.shields.io/badge/LOCATION-Brighton,_UK-0f2942?style=for-the-badge&labelColor=000000)
-![Stack](https://img.shields.io/badge/STACK-SQL_%C2%B7_Python_%C2%B7_R-0f2942?style=for-the-badge&labelColor=000000)
-![Open to](https://img.shields.io/badge/OPEN_TO-Data_Collaborations-0f2942?style=for-the-badge&labelColor=000000)
-
+> I'm a data professional in career transition, based in Brighton. I turn messy datasets into clear stories and better business decisions — currently sharpening my SQL, Python, and R skills while working towards creating a GitHub portfolio.
+>
+> ![Status](https://img.shields.io/badge/STATUS-Career_Transition-0f2942?style=for-the-badge&labelColor=000000)
+> ![Location](https://img.shields.io/badge/LOCATION-Brighton,_UK-0f2942?style=for-the-badge&labelColor=000000)
+> ![Stack](https://img.shields.io/badge/STACK-SQL_%C2%B7_Python_%C2%B7_R-0f2942?style=for-the-badge&labelColor=000000)
+> ![Open to](https://img.shields.io/badge/OPEN_TO-Data_Collaborations-0f2942?style=for-the-badge&labelColor=000000)
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0f2942&height=45&section=header&text=Featured%20Projects&fontSize=16&fontColor=ffffff&fontAlign=9&fontAlignY=55&width=100%" width="100%"/>
 
 <table>
