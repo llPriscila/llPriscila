@@ -4,10 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=8a3e2f&center=false&vCenter=true&width=440&height=25&lines=Turning+messy+data+into+clear+stories;Automating+workflows+with+SQL+%2B+Python+%2B+R;Open+to+data+analytics+collaborations!" alt="Typing SVG" />
 
-</td>
-</tr>
-</table>
-
 ### About Me
 
 I'm a data professional in career transition, based in Brighton. I turn messy datasets into clear stories and better business decisions — currently sharpening my SQL, Python, and R skills while working toward a GitHub Foundations certification.
@@ -17,8 +13,7 @@ I'm a data professional in career transition, based in Brighton. I turn messy da
 ![Stack](https://img.shields.io/badge/STACK-SQL_%C2%B7_Python_%C2%B7_R-0f2942?style=for-the-badge&labelColor=000000)
 ![Open to](https://img.shields.io/badge/OPEN_TO-Data_Collaborations-0f2942?style=for-the-badge&labelColor=000000)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f2942&height=56&section=header&text=Featured%20Projects&fontSize=22&fontColor=ffffff&fontAlign=15&fontAlignY=55&width=100%" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f2942&height=45&section=header&text=Featured%20Projects&fontSize=16&fontColor=ffffff&fontAlign=9&fontAlignY=55&width=100%" width="100%"/>
 
 <table>
 <tr>
@@ -58,12 +53,13 @@ Real-world SQL interview questions with fully documented, dialect-aware solution
 </tr>
 </table>
 
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0f2942&height=45&section=header&text=%20Tech%20Stack&fontSize=16&fontColor=ffffff&fontAlign=6&fontAlignY=50&width=100%&v=2" width="100%"/>
 
 <div align="center">
   <img src="assets/tech-hive.svg" width="500"/>
 </div>
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0f2942&height=45&section=header&text=Activity&fontSize=16&fontColor=ffffff&fontAlign=5&fontAlignY=55&width=100%" width="100%"/>
 
@@ -75,7 +71,6 @@ Real-world SQL interview questions with fully documented, dialect-aware solution
 
 <sub><em>Just getting started — check back soon 🌱</em></sub>
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0f2942&height=45&section=header&text=%20Connect%20with%20Me&fontSize=16&fontColor=ffffff&fontAlign=9&fontAlignY=55&width=100%" width="100%"/>
 
 <div align="center">
@@ -86,5 +81,7 @@ Real-world SQL interview questions with fully documented, dialect-aware solution
   <img height="45" src="https://img.shields.io/badge/Email-0f2942?style=for-the-badge&logo=gmail&logoColor=d99058" />
 </a>
 </div>
+
 <br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:132743,100:58a6ff&height=100&section=footer" width="100%"/>
