@@ -87,4 +87,4 @@ Real-world SQL interview questions with fully documented, dialect-aware solution
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2942,50:8a3e2f,100:241512&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:132743,100:58a6ff&height=100&section=footer" width="100%"/>
