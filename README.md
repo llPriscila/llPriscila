@@ -84,6 +84,4 @@ Real-world SQL interview questions with fully documented, dialect-aware solution
 
 <br/>
 
-<sub>Made with intention, one query at a time ✨</sub>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d99058,50:8a3e2f,100:241512&height=100&section=footer" width="100%"/>
