@@ -4,15 +4,18 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=8a3e2f&center=false&vCenter=true&width=440&height=25&lines=Turning+messy+data+into+clear+stories;Automating+workflows+with+SQL+%2B+Python+%2B+R;Open+to+data+analytics+collaborations!" alt="Typing SVG" />
 
-### About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f2942&height=45&section=header&text=About%20me&fontSize=16&fontColor=ffffff&fontAlign=5&fontAlignY=55&width=100%" width="100%"/>
 
 > I'm a data professional in career transition, based in Brighton. I turn messy datasets into clear stories and better business decisions — currently sharpening my SQL, Python, and R skills while working towards creating a GitHub portfolio.
 >
-> ![Status](https://img.shields.io/badge/STATUS-Career_Transition-0f2942?style=for-the-badge&labelColor=000000)
-> ![Location](https://img.shields.io/badge/LOCATION-Brighton,_UK-0f2942?style=for-the-badge&labelColor=000000)
-> ![Stack](https://img.shields.io/badge/STACK-SQL_%C2%B7_Python_%C2%B7_R-0f2942?style=for-the-badge&labelColor=000000)
-> ![Open to](https://img.shields.io/badge/OPEN_TO-Data_Collaborations-0f2942?style=for-the-badge&labelColor=000000)
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f2942&height=45&section=header&text=Featured%20Projects&fontSize=16&fontColor=ffffff&fontAlign=9&fontAlignY=55&width=100%" width="100%"/>
+> 
+>![Status](https://img.shields.io/badge/STATUS-Career_Transition-0f2942?style=for-the-badge&labelColor=2d5a4a)
+>![Location](https://img.shields.io/badge/LOCATION-Brighton,_UK-0f2942?style=for-the-badge&labelColor=2d5a4a)
+>![Stack](https://img.shields.io/badge/STACK-SQL_%C2%B7_Python_%C2%B7_R-0f2942?style=for-the-badge&labelColor=2d5a4a)
+>![Open to](https://img.shields.io/badge/OPEN_TO-Senior_data_analyst_roles-0f2942?style=for-the-badge&labelColor=2d5a4a)
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f2942&height=45&section=header&text=Featured%20projects&fontSize=16&fontColor=ffffff&fontAlign=9&fontAlignY=55&width=100%" width="100%"/>
 
 <table>
 <tr>
@@ -54,7 +57,7 @@ Real-world SQL interview questions with fully documented, dialect-aware solution
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f2942&height=45&section=header&text=%20Tech%20Stack&fontSize=16&fontColor=ffffff&fontAlign=6&fontAlignY=50&width=100%&v=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f2942&height=45&section=header&text=%20Tech%20stack&fontSize=16&fontColor=ffffff&fontAlign=6&fontAlignY=50&width=100%&v=2" width="100%"/>
 
 <div align="center">
   <img src="assets/tech-hive.svg" width="500"/>
@@ -70,7 +73,7 @@ Real-world SQL interview questions with fully documented, dialect-aware solution
 
 <sub><em>Just getting started — check back soon 🌱</em></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f2942&height=45&section=header&text=%20Connect%20with%20Me&fontSize=16&fontColor=ffffff&fontAlign=9&fontAlignY=55&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f2942&height=45&section=header&text=%20Connect%20with%20me&fontSize=16&fontColor=ffffff&fontAlign=9&fontAlignY=55&width=100%" width="100%"/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ioana-criclevit/">
