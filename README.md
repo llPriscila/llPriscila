@@ -1,8 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:132743,100:58a6ff&height=200&section=header&text=Hi%20there,%20I'm%20Ioana%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=45&width=100%" width="100%"/>
-
-**Data Professional · Analytics · Automation**
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=8a3e2f&center=false&vCenter=true&width=440&height=25&lines=Turning+messy+data+into+clear+stories;Automating+workflows+with+SQL+%2B+Python+%2B+R;Open+to+data+analytics+collaborations!" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2942,40:1f6feb,100:2d5a4a&height=200&section=header&width=100%" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=0f2942&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I'm+Ioana+%F0%9F%91%8B" alt="Typing SVG" />
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0f2942&height=45&section=header&text=About%20me&fontSize=16&fontColor=ffffff&fontAlign=5&fontAlignY=55&width=100%" width="100%"/>
 
