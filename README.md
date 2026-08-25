@@ -17,45 +17,44 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0f2942&height=45&section=header&text=Featured%20projects&fontSize=16&fontColor=ffffff&fontAlign=9&fontAlignY=55&width=100%" width="100%"/>
 
-<table>
-<tr>
-<td width="33%" valign="top">
+> <table>
+> <tr>
+> <td width="33%" valign="top">
+>
+> **🧹 GameZone Orders — Data Cleaning & Augmentation**
+>
+> SQL pipeline that cleans raw order data, derives time-grain columns (year/month/day, time-of-day), and joins in region lookups with full validation checks.
+>
+> `SQL` `PostgreSQL`
+>
+> ➡️ *Add repo link*
+>
+> </td>
+> <td width="33%" valign="top">
+>
+> **📊 Graduate Outcomes Dashboard**
+>
+> Interactive analysis exploring graduate earnings using official UK education data.
+>
+> `R` `ggplot2` `dplyr`
+>
+> ➡️ **Coming Soon**
+>
+> </td>
+> <td width="33%" valign="top">
+>
+> **🤖 SQL Practice Repository**
+>
+> Real-world SQL interview questions with fully documented, dialect-aware solutions.
+>
+> `SQL` `PostgreSQL`
+>
+> ➡️ **Coming Soon**
+>
+> </td>
+> </tr>
+> </table>
 
-**🧹 GameZone Orders — Data Cleaning & Augmentation**
-
-SQL pipeline that cleans raw order data, derives time-grain columns (year/month/day, time-of-day), and joins in region lookups with full validation checks.
-
-`SQL` `PostgreSQL`
-
-➡️ *Add repo link*
-
-</td>
-<td width="33%" valign="top">
-
-**📊 Graduate Outcomes Dashboard**
-
-Interactive analysis exploring graduate earnings using official UK education data.
-
-`R` `ggplot2` `dplyr`
-
-➡️ **Coming Soon**
-
-</td>
-<td width="33%" valign="top">
-
-**🤖 SQL Practice Repository**
-
-Real-world SQL interview questions with fully documented, dialect-aware solutions.
-
-`SQL` `PostgreSQL`
-
-➡️ **Coming Soon**
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0f2942&height=45&section=header&text=%20Tech%20stack&fontSize=16&fontColor=ffffff&fontAlign=6&fontAlignY=50&width=100%&v=2" width="100%"/>
 
